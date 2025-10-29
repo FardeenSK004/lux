@@ -15,18 +15,12 @@ A simple Flask web application that allows users to upload images, calculates th
 
 ---
 
-## Requirements
 
-- Python 3.8+
-- Flask
-- Pillow (`PIL`)
-- NumPy
-- scikit-image
 
 Install dependencies using:
 
 ```bash
-pip install -r requirements.txt
+pip install numpy scikit-image pillow
 ````
 
 `requirements.txt` example:
