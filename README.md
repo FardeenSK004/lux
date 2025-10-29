@@ -112,5 +112,3 @@ http://localhost:6543
 [FardeenSK004](https://github.com/FardeenSK004)
 
 
-If you want, I can also draft a **shorter, GitHub-friendly version** with badges and setup instructions that looks extra polished. Do you want me to do that?
-```
